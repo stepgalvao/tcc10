@@ -85,8 +85,8 @@ semelhantes ao *props.navigation* a diferença é que podemos acessar ele em qua
 
 Dessa forma nossa navegação é criada na propria Page, que possui os seguinte elementos staticos:
 
-PAGE_NAME : é a constante com o nome da página, utilizada para configurar nossa navegação. Por pradão essa constante tem o valor da "/NomeDaPaginaSemOPage"
-ACTIVE({params}): é o método que faz a navegação ir para a página em questão. O método é padrão identico e semelhante em todas as pages.
+- PAGE_NAME : é a constante com o nome da página, utilizada para configurar nossa navegação. Por pradão essa constante tem o valor da "/NomeDaPaginaSemOPage"
+- Active({params}): é o método que faz a navegação ir para a página em questão. O método é padrão identico e semelhante em todas as pages.
 
 > No futuro vou criar um classe abstrata que já contenha esses elementos. Sendo necessário apenas herdar.
 
