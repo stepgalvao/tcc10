@@ -2,7 +2,7 @@
 Repositório do projeto TCC 10
 
 ### Estrutura do projeto
-
+```
 .
 ├── App.js // Arquivo de inicialização da execuçao, não programaremos nele, apenas para configurações necessária a nível de raiz.
 ...
@@ -29,8 +29,14 @@ Repositório do projeto TCC 10
     └── style // Estilos comuns ao projeto.
         └── Colors.js
         
-  
+```  
+
 ### Padronizações
+Para a programação em equipe é sempre bom ter alguns padrões para seguir. Vamos começar por estes:
+- Page
+- Component
+- Navegação
+
 
 #### Page
 Arquivos de paginas deve possuir o sufixo "Page". Exemplo: HomePage.js, DisciplinaPage.js.Neste arquivos serão colocado as páginas exibidas na aplicação. 
