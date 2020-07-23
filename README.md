@@ -99,7 +99,7 @@ E ele pode ser acionada em qualquer lugar do código da seguinte forma:
 NomePage.active()
 ```
 
-### TODO
+### TODO // Falta fazer
 - Pagina de Login
 - Pagina de Cadastro
 - Pagina de Normas 
