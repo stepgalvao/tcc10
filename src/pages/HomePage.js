@@ -7,6 +7,7 @@ import CustomHeader from "../components/CustomHeader";
 import DisciplinaPage from "./DisciplinaPage";
 import NormasPage from "./NormasPage";
 import * as Navigation from '../components/CustomNavigation'
+import CadastroPage from "./CadastroPage";
 
 
 

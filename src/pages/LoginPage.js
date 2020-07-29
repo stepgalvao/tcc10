@@ -4,7 +4,7 @@ import { View,Text, StyleSheet,TextInput,Button, TouchableOpacity,Image} from 'r
 import CustomHeader from '../components/CustomHeader'
 import * as Navigation from '../components/CustomNavigation'
 import HomePage from './HomePage'
-
+import CadastroPage from "./CadastroPage";
 
 
 
